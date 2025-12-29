@@ -1,1 +1,1 @@
-# SeSAC
+# SeSAC 실습
